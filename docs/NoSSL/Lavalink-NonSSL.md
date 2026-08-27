@@ -135,9 +135,9 @@ Secure : false
 ```
 
 
-### Hosted by @ [Kasawa](https://discord.gg/drJbwRFEXu)
-Version 4.x | TH Node
-[Website](https://chanom.kasawa.pro)
+### Hosted by @ [Kasawa](https://kasawa.pro)
+Version 4.x | SG Node | PLugin: Chanom-plugin
+[Website](https://chanom.kasawa.pro) | [Support](https://discord.gg/drJbwRFEXu)
 ```bash
 Host : lava2.kasawa.pro
 Port : 2334
